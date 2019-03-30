@@ -4,7 +4,7 @@ title: Sketches
 permalink: /sketches/
 ---
 ### Serge's sketches
-##### (Under Construction)
+
 Sample displays of musical ideas from Prokofiev's notebooks.
 
 Encoded in [MEI](https://music-encoding.org/) and displayed with [Verovio](https://www.verovio.org/index.xhtml)
