@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.0.5</software>
-      <encoding-date>2019-03-22</encoding-date>
+      <encoding-date>2019-03-29</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -1086,21 +1086,12 @@
     <measure number="3" width="249.86">
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="5.33" default-y="-54.46" relative-y="-40.00">
+          <dynamics default-x="5.33" default-y="-48.87" relative-x="-6.72" relative-y="-45.59">
             <ff/>
             </dynamics>
           </direction-type>
         <staff>1</staff>
         <sound dynamics="124.44"/>
-        </direction>
-      <direction placement="below">
-        <direction-type>
-          <dynamics default-x="5.33" default-y="-54.46" relative-y="-40.00">
-            <f/>
-            </dynamics>
-          </direction-type>
-        <staff>1</staff>
-        <sound dynamics="106.67"/>
         </direction>
       <note>
         <rest/>
@@ -1109,6 +1100,15 @@
         <type>quarter</type>
         <staff>1</staff>
         </note>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-x="6.58" default-y="-436.60" relative-x="-14.42" relative-y="372.39">
+            <f/>
+            </dynamics>
+          </direction-type>
+        <staff>1</staff>
+        <sound dynamics="106.67"/>
+        </direction>
       <note default-x="90.11" default-y="0.00">
         <pitch>
           <step>F</step>
