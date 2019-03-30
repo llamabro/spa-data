@@ -10,6 +10,8 @@ Sample displays of musical ideas from Prokofiev's notebooks.
 Encoded in [MEI](https://music-encoding.org/) and displayed with [Verovio](https://www.verovio.org/index.xhtml)
 
 <br><br>
+<a href="../meimidi/Fragment02midi.html">Fragment 2</a>
+
 <a href="../meimidi/Fragment04midi.html">Fragment 4</a>
 
 <a href="../meimidi/Fragment05midi.html">__Fragment 5__</a>
