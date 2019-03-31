@@ -219,7 +219,7 @@
                                     </chord>
                                 </layer>
                                 <layer xml:id="layer-0000000428526966" n="2">
-                                    <rest xml:id="rest-0000000157066698" dur="4" />
+                                    <rest xml:id="rest-0000000157066698" dur="4" loc="10"/>
                                     <chord xml:id="chord-0000000694735031" dur="8" stem.dir="up">
                                         <note xml:id="note-0000001911505290" oct="5" pname="f" color="#000000" />
                                         <note xml:id="note-0000002082096892" oct="6" pname="f" color="#000000" />
@@ -253,7 +253,7 @@
                                 <layer xml:id="layer-0000001720403865" n="1" />
                             </staff>
                             <dynam xml:id="dynam-0000001287236650" staff="1" startid="#chord-0000000126518792">ff</dynam>
-                            <dynam xml:id="dynam-0000001921957244" staff="1" startid="#chord-0000000126518792">f</dynam>
+                            <dynam xml:id="dynam-0000001921957244" staff="1" tstamp="2"  place="above">f</dynam>
                             <tie xml:id="tie-0000001853147423" startid="#note-0000000001035203" endid="#note-0000000453189833" />
                             <tie xml:id="tie-0000000083814097" startid="#note-0000000053571331" endid="#note-0000001279800687" />
                             <dir xml:id="dir-0000000295642538" staff="2" startid="#chord-0000001837736413">
