@@ -45,7 +45,7 @@
         <b>Click to play</b>
       </button>
       </div>
-      
+
         <!-- A help overlay -->
         <!-- <div id="help_overlay">
             <p>Press <b><strong>p</strong></b> to play</p> -->
@@ -80,9 +80,13 @@
             var ids = [];
             var isPlaying = false;
 
+            ///////////////////////////////////////////////////
+            /* A function for setting options to the toolkit */
+            ///////////////////////////////////////////////////
+
             function setOptions() {
                 pageHeight = $(document).height() * 100 / zoom ;
-                pageWidth = $(document).width() * 100 / zoom ;
+                pageWidth = $(document).width() * 90 / zoom ;
                 options = {
                             pageHeight: pageHeight,
                             pageWidth: pageWidth,
