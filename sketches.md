@@ -24,7 +24,7 @@ Playable transcriptions encoded in [MEI](https://music-encoding.org/) and displa
   <li>
   <h3>{{ item.name }} - {{ item.imgfile }}</h3>
 
-  <p><a href="{{ site.basurl }}/_midi/{{ item.shortname }}/">underscore link</a></p>
+  <p><a href="{{ site.baseurl }}/_midi/{{ item.shortname }}/">underscore link</a></p>
   </li>
   {% endfor %}
 </ul>  
